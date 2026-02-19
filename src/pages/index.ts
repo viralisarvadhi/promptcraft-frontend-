@@ -1,0 +1,10 @@
+export { default as HomePage } from './HomePage';
+export { default as LoginPage } from './LoginPage';
+export { default as RegisterPage } from './RegisterPage';
+export { default as ChallengePage } from './ChallengePage';
+export { default as ResultPage } from './ResultPage';
+export { default as HistoryPage } from './HistoryPage';
+export { default as ProfilePage } from './ProfilePage';
+export { default as AdminDashboardPage } from './AdminDashboardPage';
+export { default as LeaderboardPage } from './LeaderboardPage';
+export { default as NotFoundPage } from './NotFoundPage';
